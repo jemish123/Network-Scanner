@@ -1,0 +1,25 @@
+[
+    {
+        "ip": "192.168.29.1",
+        "mac": "8c:a3:99:27:88:2a",
+        "open_ports": [
+            {
+                "port": 80,
+                "service": "http"
+            },
+            {
+                "port": 443,
+                "service": "https"
+            },
+            {
+                "port": 8080,
+                "service": "http-alt"
+            }
+        ]
+    },
+    {
+        "ip": "192.168.29.26",
+        "mac": "16:6e:ea:c7:2a:4c",
+        "open_ports": []
+    }
+]
