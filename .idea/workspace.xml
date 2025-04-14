@@ -28,6 +28,12 @@
     "assignee": "jemish123"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jemish123/Network-Scanner.git",
+    "accountId": "252bf9e3-4e33-47c8-a748-4bcee6cb67db"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
